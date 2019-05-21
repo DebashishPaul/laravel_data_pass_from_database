@@ -17,7 +17,7 @@
     <a class="navbar-brand" href="#">NSU Student</a>
     <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
       <li class="nav-item active" style="padding-left: 150px;">
-        <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item" style="padding-left: 50px;">
         <a class="nav-link" href="/student">students</a>
